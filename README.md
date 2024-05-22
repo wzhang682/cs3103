@@ -1,2 +1,2 @@
 # cs3103
-Qperating system
+Operating system
